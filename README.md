@@ -1,3 +1,4 @@
+![myimg](/assets/my_imgrs.png)
 # Information
 ---
 - *Email* : kasidid.y@ku.th
