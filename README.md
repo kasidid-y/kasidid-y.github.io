@@ -13,4 +13,4 @@
 
 ---
 
-**InfoSysSec Glossary** : ![Attack Surface](/attack-surface.md)
+**InfoSysSec Glossary** : [Attack Surface](/attack-surface.md)
