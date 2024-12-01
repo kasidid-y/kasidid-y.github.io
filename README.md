@@ -1,4 +1,3 @@
-![myimg](/assets/my_imgrs.png)
 # Contact
 - *Email* : kasidid.y@ku.th
 - *Personal Email* : kasidisporche@gmail.com
