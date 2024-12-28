@@ -15,6 +15,6 @@
 
 **InfoSysSec Glossary** : [Attack Surface](/attack-surface.md)
 
-**Steganography** : [E-ChrismasCard](/ChrismasCard.md)
+**Steganography** : [E-ChrismasCard](/chrismascard.md)
 
-**Data Quality** : [Consistency](/Data-Quality.md)
+**Data Quality** : [Consistency](/data-quality.md)
