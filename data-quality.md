@@ -2,7 +2,7 @@
 
 => **Consistency**
 
-| **Soruces**               | **Definition**                                                                                                           |
+| **Soruces**               | **Definition**                                                                                                              |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------
 | **คำอธิบาย (SmartBridge)** | Consistency means data across all systems reflects the same information and are in synch with each other across the enterprise. | 
 | **คำอธิบาย (ChatGPT)**   | Data consistency in the context of data quality refers to the degree to which data values are uniform, reliable, and aligned across different datasets, systems, or formats. Consistent data ensures that there are no contradictions or discrepancies, which can cause errors in analysis or decision-making.|
