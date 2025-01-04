@@ -24,4 +24,4 @@
 
 [Suphanimit Nilchawee](https://6530200517.github.io/boardgame)
 
-[MyProfile](https://kasidid-y.github.io/)
+[Back to MyProfile](https://kasidid-y.github.io/)
