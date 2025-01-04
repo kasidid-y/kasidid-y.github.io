@@ -18,3 +18,5 @@
 **Steganography** : [E-ChrismasCard](/chrismascard.md)
 
 **Data Quality** : [Consistency](/data-quality.md)
+
+**Boardgame** : [Boardgame](/boardgame.md)
