@@ -21,4 +21,4 @@
 
 **Boardgame** : [Boardgame](/boardgame.md)
 
-**Security Control** : [](/security-control)
+**Security Control** : [Security Control](/security-control.md)
