@@ -20,3 +20,5 @@
 **Data Quality** : [Consistency](/data-quality.md)
 
 **Boardgame** : [Boardgame](/boardgame.md)
+
+**Security Control** : [](/security-control)
